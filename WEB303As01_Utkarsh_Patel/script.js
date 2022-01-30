@@ -14,30 +14,30 @@ $(document).ready(function () {
 	$("input").on("keyup", function() {
 
 		/* getting the value of the Salary from Input */
-		var saveSalary = $('#yearly-salary').val();
+		var $saveSalary = $('#yearly-salary').val();
 		/* getting the value of the Salary from Input */
 		
 		/* getting the value of the percent from the Input */
-		var savePercent = $('#percent').val();
+		var $savePercent = $('#percent').val();
 		/* getting the value of the percent from the Input */
 
 
 		/* Step 4: In the event handler,calculate the amount you can spend on tech, with a dollar sign, and insert it into the span#amount element using jQuery. */
 		
-		var result = saveSalary * savePercent / 100;
+		var $result = $saveSalary * $savePercent / 100;
 		
 
 
 		/* Step 7: Use the built in toFixed() method to round the number to dollars and cents. That will get rid of extra decimal places. */
 
-		var saveResult = `$` + result.toFixed(2);
+		var $saveResult = `$` + $result.toFixed(2);
 		
 		/* Step 7: Use the built in toFixed() method to round the number to dollars and cents. That will get rid of extra decimal places. */
 		
 
 
 		
-		$('span#amount').text(saveResult);
+		$('span#amount').text($saveResult);
 		
 		/* Step 4: In the event handler,calculate the amount you can spend on tech, with a dollar sign, and insert it into the span#amount element using jQuery. */
 	});
