@@ -17,6 +17,7 @@ var URL = "team.json"
 $.getJSON(URL, function (data) {
 	
 	// set the content in the particular tag to display the content in the team container
+	/*
 	$.each(data.members, function (key, val) {
 		
 		$('#team').append(`<div>
@@ -26,6 +27,7 @@ $.getJSON(URL, function (data) {
 		</div>`);
 		
 	});
+	*/
 	// set the content in the particular tag to display the content in the team container
 })/* .fail(function () {
 	$('#team').text("content could not be retrieved");
