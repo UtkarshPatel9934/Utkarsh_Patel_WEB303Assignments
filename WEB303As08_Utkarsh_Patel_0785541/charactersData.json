@@ -1,0 +1,85 @@
+[
+	
+	  {
+		"FirstName": "Doraemon",
+		"LastName": "D90",
+		"Status": "Alive forever",
+		"Species": "Robot Cat",
+		"Gender": "Male",
+		"Nationality": "Japanese",
+		"Habitat": "Tokyo",
+		"Talent": "4D Pocket High capacity"
+	  },
+	
+	  {
+		"FirstName": "Nobita",
+		"LastName": "Nobi",
+		"Status": "Alive",
+		"Species": "Human",
+		"Gender": "Male",
+		"Nationality": "Japanese",
+		"Habitat": "Tokyo",
+		"Talent": "Sleep instantly"
+	  },
+	
+	  {
+		"FirstName": "Shizuka",
+		"LastName": "Minamoto",
+		"Status": "Alive",
+		"Species": "Human",
+		"Gender": "Female",
+		"Nationality": "Japanese",
+		"Habitat": "Tokyo",
+		"Talent": "Violin"
+	  },
+	
+	  {
+		"FirstName": "Takeshi",
+		"LastName": "Gouda",
+		"Status": "Alive",
+		"Species": "Human",
+		"Gender": "Male",
+		"Nationality": "Japanese",
+		"Habitat": "Tokyo",
+		"Talent": "Singing Song"
+	  },
+	
+	  {
+		"FirstName": "Suneo",
+		"LastName": "Honekawa",
+		"Status": "Alive",
+		"Species": "Human",
+		"Gender": "Male",
+		"Nationality": "Japanese",
+		"Habitat": "Nerima, Tokyo",
+		"Talent": "Taunting People"
+	  },
+	
+	
+	  {
+		"FirstName": "Dorami",
+		"LastName": "UK",
+		"Status": "Alive",
+		"Species": "Robot cat",
+		"Gender": "Female",
+		"Nationality": "Japanese",
+		"Habitat": "Tokyo",
+		"Talent": "Housekeeping"
+	  },
+	
+	
+	  {
+		"FirstName": "Soby",
+		"LastName": "Nobi",
+		"Status": "Alive",
+		"Species": "Robot cat",
+		"Gender": "Female",
+		"Nationality": "Japanese",
+		"Habitat": "Metropolis Japan",
+		"Talent": "Future robots"
+	  }
+	
+
+]
+      
+      
