@@ -71,6 +71,7 @@ $(document).ready(function () {
 		$("#charactersData tr:not(:first-child)").filter(function (e) {
 			var id = $(this).find("td:eq(1)").text();
 			
+				if (id.includes("N") || id.includes("O") || id.includes("P") || id.includes("Q") || id.includes("R") || id.includes("S") || id.includes("T") || id.includes("U") || id.includes("V") || id.includes("W") || id.includes("X") || id.includes("Y") || id.includes("Z")) {
 					$(this).show();
 				}
 				else
